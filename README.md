@@ -14,9 +14,13 @@
 ## 使用方式
 
   环境要求：python3
+  
   相关库：itchat,openai,xlwt。使用pip install即可
+  
   api_key:根据视频指示进入OpenAI官网生成，对应填写到脚本的 openai.api_key 中即可
+  
   运行：直接运行脚本，会自动弹出二维码，扫码进行登录就可以自动回复了
+  
 
 ## 注意事项
 
