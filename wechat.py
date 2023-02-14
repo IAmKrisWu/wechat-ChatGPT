@@ -5,7 +5,7 @@ import time
 import calendar
 import xlwt
 
-openai.api_key = "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"
+openai.api_key = "这里填入你的API_KEY"
 
 # 自动回复
 # 封装好的装饰器，当接收到的消息是Text，即文字消息
