@@ -7,7 +7,10 @@
 
 # 配合视频，姿势更正确噢
 
-  - 【微信接入ChatGPT最稳定的方式，被抓你来找我 ｜ 用ChatGPT做表格直接生成Excel文件-哔哩哔哩】 https://b23.tv/668Ukt4
+  - Bilibili:【微信接入ChatGPT最稳定的方式，被抓你来找我 ｜ 用ChatGPT做表格直接生成Excel文件-哔哩哔哩】 https://b23.tv/668Ukt4
+  - Youtube：【超详细演示】微信接入ChatGPT超稳定的方式｜RPA实现超稳定连接ChatGPT https://www.youtube.com/watch?v=S2MBzL3wpvI
+  
+  **Bilibili发不了【超详细演示】，本人也是被整崩了，如果需要观看可以移步油管**
 
   **如果您觉得有用，记得给我一键三连~**
 
