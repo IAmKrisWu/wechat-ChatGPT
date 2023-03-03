@@ -9,22 +9,17 @@ import openai
 
 def chatgpt(question):
 
-    openai.api_key = "填入你的API_KEY
-
-    prompt = "\nHuman: " + question
+    openai.api_key = "<Your API_KEY>"
     
     try:
-        response = openai.Completion.create(
-            model="text-davinci-003",
-            prompt = question,
-            temperature=0.9,
-            max_tokens=2000,
-            frequency_penalty=0,
-            presence_penalty=0,
-            stop=[" Human:"," AI:"]
+        completion = openai.ChatCompletion.create(
+            model="gpt-3.5-turbo",
+            messages=[
+                {"role": "user", "content": question}
+            ]
         )
         
-        result = response["choices"][0]["text"].strip()
+        result = completion.choices[0].message["content"].strip()
 
         return result
     except Exception as exc:
